@@ -26,7 +26,7 @@
     `---._.-------------------------------------------------------------._.---'
 
 
-## Hi, I'm Sandy! 👋
+## Hello there!
 Healthcare IT specialist currently working at Karolinska University Hospital as a Solutions architect.
 Got a bit of a background in Visual Basics and starting to make the switch to C# 
 
